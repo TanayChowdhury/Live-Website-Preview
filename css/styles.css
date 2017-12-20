@@ -1,0 +1,53 @@
+body{
+    font-family: 'Lato', sans-serif;
+    color: #2d3c49;
+    font-weight: 700;
+}
+
+.text-muted{
+    color: #7d97ad;
+}
+
+.text-thin{
+    font-weight: 100;
+}
+
+.text-subhigh{
+    font-weight: 900;
+}
+
+.title-super{
+    font-size: 50px;
+}
+
+.title-logo{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.hr-line{
+    border-width: 5px;
+    border-color: #7d97ad;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+.line-space{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.subtitle-high{
+    font-size: 35px;
+}
+
+.pointer{
+    cursor:pointer;
+}
+
+.logo-space{
+    margin-top: 30px;
+}
